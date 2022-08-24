@@ -1,14 +1,14 @@
 button {
-    background-color: #ff7f50;
+    background-color: #80c4aa;
      font-family: Segoe UI, sans-serif;
     font-size: 30px;
     color: #ffffff;
     padding: 10px;
     border-radius: 10px;
-    border: 3px solid #ff6348;
+    border: 3px solid #598d79;
   }
   button:hover {
-    background-color: #FF8352;
+    background-color: #61b896;
     color: #333333
   }
   .hidden {
