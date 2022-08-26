@@ -1,6 +1,7 @@
 body {
     margin: 0;
     background-image: url("prettypattern.jpeg");
+    background-size: 50px;
     background-color: rgb(130, 163, 173);
     text-align: center;
 }
