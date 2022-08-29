@@ -14,3 +14,13 @@ h1 {
 h1 style {
     margin-top: 40px;
 }
+
+@supports (-webkit-text-stroke: 2px rgb(255, 255, 255)) {
+    h1 {
+      -webkit-text-stroke: 2px rgb(255, 255, 255);
+    }
+  }
+
+  .fix-stroke {
+    paint-order: stroke fill;
+ }
